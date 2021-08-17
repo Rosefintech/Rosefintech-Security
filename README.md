@@ -43,7 +43,7 @@
 
 ## Contact
 
- E-MAIL: orbit@rosefin.tech
+ E-MAIL: dev.rosefintech@gmail.com
 
 <!-- links -->
 [your-project-path]:https://github.com/Rosefintech/Rosefintech-Security
