@@ -27,7 +27,8 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-
+- [Community](#community)
+- [Contact](#contact)
 
 ## Introduction
 "Smart contract security audit report-Ros-Contract.pdf" is the audit report of governance currency ROS.
@@ -36,6 +37,13 @@
 
 "Smart contract security audit report-Orbit-Falco-Contract.pdf" is the Kestrel project asset management contract audit report.
 
+## Community
+
+ DISCORD: [https://discord.gg/FEX4cBgHbR](https://discord.gg/FEX4cBgHbR)
+
+## Contact
+
+ E-MAIL: orbit@rosefin.tech
 
 <!-- links -->
 [your-project-path]:https://github.com/Rosefintech/Rosefintech-Security
